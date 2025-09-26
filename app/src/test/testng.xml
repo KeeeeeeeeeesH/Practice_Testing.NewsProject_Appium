@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="News App Test Suite">
+    <test name="Automated Tests">
+        <classes>
+            <class name="com.example.project_appium_test.TC_AP_001" />
+<!--            <class name="com.example.project_appium_test.TC_AP_002" />-->
+<!--            <class name="com.example.project_appium_test.TC_AP_003" />-->
+<!--            <class name="com.example.project_appium_test.TC_AP_004" />-->
+<!--            <class name="com.example.project_appium_test.TC_AP_005" />-->
+<!--            <class name="com.example.project_appium_test.TC_AP_006" />-->
+<!--            <class name="com.example.project_appium_test.TC_AP_007" />-->
+<!--            <class name="com.example.project_appium_test.TC_AP_008" />-->
+<!--            <class name="com.example.project_appium_test.TC_AP_009" />-->
+        </classes>
+    </test>
+</suite>
