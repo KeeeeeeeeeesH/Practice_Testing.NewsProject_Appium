@@ -1,3 +1,7 @@
+This project is related to Project_Web_RestfulAPI and Project_News_App.
+https://github.com/KeeeeeeeeeesH/Project_Web_RestfulAPI
+https://github.com/KeeeeeeeeeesH/Project_News_App
+
 All scripts located in the path: app/src/test/java/com/example/project_appium_test 
 
 Including testng.xml in app/src/test that using for run test.
